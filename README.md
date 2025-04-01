@@ -1,6 +1,8 @@
 # smsn.lmm
 ML estimation of scale mixture of skew-normal linear mixed models Use smsn.lmm (skewlmm) With (In) R Software
 
+https://www.youtube.com/watch?v=XZMte_hSsJg
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
